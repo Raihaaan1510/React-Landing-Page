@@ -1,9 +1,13 @@
 import React from "react";
+import logo from "../assets/logo.png"
 
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
-      <div className="container">
+      <div className="container header-container">
+        <div className="logo-container">
+          <img style={{height: "50px"}} src={logo} alt="logo"/>
+        </div>
         <div className="navbar-header">
           <button
             type="button"
@@ -17,9 +21,9 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+            <a className="navbar-brand page-scroll" href="#page-top">
+            Ciphersoft.tech
+          </a>{" "}          
         </div>
 
         <div
@@ -27,11 +31,11 @@ export const Navigation = (props) => {
           id="bs-example-navbar-collapse-1"
         >
           <ul className="nav navbar-nav navbar-right">
-            <li>
+            {/* <li>
               <a href="#features" className="page-scroll">
                 Features
               </a>
-            </li>
+            </li> */}
             <li>
               <a href="#about" className="page-scroll">
                 About

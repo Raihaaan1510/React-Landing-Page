@@ -9,28 +9,16 @@ export const About = (props) => {
             {" "}
             <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
           </div>
-          <div className="col-xs-12 col-md-6">
+          <div className="col-xs-12 col-md-6 bg-indigo-500">
             <div className="about-text">
-              <h2>About Us</h2>
-              <p>{props.data ? props.data.paragraph : "loading..."}</p>
+              <h2>Cipher Soft</h2>
+              <p>"CIPHERSOFT is here to provide you the best tech solution, So that your visionary ideas meet versatile solutions."</p>
               <h3>Why Choose Us?</h3>
               <div className="list-style">
-                <div className="col-lg-6 col-sm-6 col-xs-12">
+                <div className="col-lg-6 col-sm-6 col-xl-22">
                   <ul>
-                    {props.data
-                      ? props.data.Why.map((d, i) => (
-                          <li key={`${d}-${i}`}>{d}</li>
-                        ))
-                      : "loading"}
-                  </ul>
-                </div>
-                <div className="col-lg-6 col-sm-6 col-xs-12">
-                  <ul>
-                    {props.data
-                      ? props.data.Why2.map((d, i) => (
-                          <li key={`${d}-${i}`}> {d}</li>
-                        ))
-                      : "loading"}
+                    
+                 
                   </ul>
                 </div>
               </div>
