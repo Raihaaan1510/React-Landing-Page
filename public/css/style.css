@@ -81,10 +81,10 @@ hr {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
 #menu a.navbar-brand {
-  font-family: "Raleway", sans-serif;
+  font-family: "astron";
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: black;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -239,7 +239,7 @@ a:focus,
   color: #da627a;
 }
 .intro p {
-  color: #fff;
+  color: #da627a;
   font-size: 22px;
   font-weight: 300;
   line-height: 30px;
