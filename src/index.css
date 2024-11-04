@@ -1,13 +1,22 @@
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-face {
+      font-family: "Light";
+      /*Can be any text*/
+      src: local("911Porscha"),
+          url("./fonts/911porscha/911porschav3.ttf") format("truetype");
+    }
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+  font-face {
+      font-family: "Light";
+      /*Can be any text*/
+      src: local("911Porscha"),
+        url("./fonts/911porscha/911porschav3.ttf") format("truetype");
+    }
 }
