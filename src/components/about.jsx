@@ -1,4 +1,5 @@
 import React from "react";
+import aboutImage from "../assets/about_image.jpg"
 
 export const About = (props) => {
   return (
@@ -7,7 +8,8 @@ export const About = (props) => {
         <div className="row">
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/about.jpg" className="img-responsive" alt="" />{" "}
+            {/* <img src="img/about.jpg" className="img-responsive" alt="" />{" "} */}
+            <img src={aboutImage} className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6 bg-indigo-500">
             <div className="about-text">
@@ -17,8 +19,6 @@ export const About = (props) => {
               <div className="list-style">
                 <div className="col-lg-6 col-sm-6 col-xl-22">
                   <ul>
-                    
-                 
                   </ul>
                 </div>
               </div>
