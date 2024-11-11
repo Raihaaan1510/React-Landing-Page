@@ -104,7 +104,7 @@
   ],
   "HowItWorks": [
     {
-      "icon": "fa fa-pen-to-squre",
+      "icon": "fa fa-circle-o",
       "img": "img/team/01.jpg",
       "name": "Fill the form",
       "job": "Provide us with detailed information about your project by filling out our online form"

@@ -11,7 +11,7 @@ export const About = (props) => {
           </div>
           <div className="col-xs-12 col-md-6 bg-indigo-500">
             <div className="about-text">
-              <h2>Cipher Soft</h2>
+              <h2>ABOUT</h2>
               <p>"CIPHERSOFT  brings ideas to life by designing innovative, reliable, and future-ready software solutions.  Built from the ground up, our services are designed to empower companies to leap ahead and to meet all your digital and software needs, ensuring your business thrives in the digital age and embrace the future with confidence."</p>
               <h3>Why Choose Us?</h3>
               <div className="list-style">
