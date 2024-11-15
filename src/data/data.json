@@ -41,7 +41,7 @@
   "Services": [
     {
       "icon": "fa fa-laptop",
-      "name": "Website development",
+      "name": "Website Development",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
@@ -61,7 +61,7 @@
     },
     {
       "icon": "fa fa-hashtag",
-      "name": "Social media management",
+      "name": "Social Media Management",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
@@ -107,13 +107,13 @@
       "icon": "fa fa-circle-o",
       "img": "img/team/01.jpg",
       "name": "Fill the form",
-      "job": "Provide us with detailed information about your project by filling out our online form"
+      "job": "Provide us with detailed information about your project by filling out our online form."
     },
     {
       "icon": "fa fa-cart-arrow-down",
       "img": "img/team/02.jpg",
       "name": "Get a quote",
-      "job": "Receive a customized quote tailored to your requirements"
+      "job": "Receive a customized quote tailored to your requirements."
     },
     {
       "icon": "fa fa-x",
@@ -124,9 +124,9 @@
   ],
   "Contact": {
     "address": "Bhopal, Madhya Pradesh, INDIA (462001) ",
-    "phone": "BUY A SIM FIRST",
+    "phone": "+91-9131127095",
     "email": "queries@ciphersoft.tech",
-    "facebook": "instagram.com",
+    "facebook": "https://www.facebook.com/profile.php?id=61568515025601",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },

@@ -304,7 +304,8 @@ header .intro-text {
   padding-right: 8px;
 }
 #about img {
-  width: 520px;
+  width: 500px;
+  height: 450px;
   margin-top: 10px;
   background: #fff;
   border-right: 0;
