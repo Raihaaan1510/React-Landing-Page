@@ -1,6 +1,8 @@
 import React from "react";
 import logo from "../assets/logo.png"
-import nav_img_cropped from "../assets/navbar_img_transparent.png"
+// import nav_img_cropped from "../assets/navbar_img_transparent.png"
+// import nav_img_cropped from "../assets/inverted_logo_cipher.png"
+import nav_img_cropped from "../assets/rev.png"
 
 export const Navigation = (props) => {
   return (
